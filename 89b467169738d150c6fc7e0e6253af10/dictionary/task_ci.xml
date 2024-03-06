@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="9d0b876124033100e3ef2ed1ca4913fa" label="CIs Affected" max_length="40" name="task_ci" type="collection">
+    <element attributes="kagami_csindex_enabled=true" db_object_id="9d0b876124033100e3ef2ed1ca4913fa" label="CIs Affected" max_length="40" name="task_ci" type="collection">
         <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Discovery" max_length="32" name="discovery" reference="discovery_status" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Discovery Last Updated" max_length="40" name="discovery_last_updated" type="glide_date_time"/>
         <element active="false" attributes="edge_encryption_enabled=true" label="Discovery Log URL" max_length="400" name="discovery_log_url" type="string"/>

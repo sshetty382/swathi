@@ -3,6 +3,7 @@
         <active>true</active>
         <app_config display_value="Fleet Vehicle Management Config">0a43b352d63819100db25335345d81c0</app_config>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings>[ {
   "eventMappingId" : "ckhffjjisfyaaaabboddhhhmwraaxeeaft",
   "isConfiguration" : false,

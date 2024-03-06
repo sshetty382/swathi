@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
     <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <controller_preset/>
         <includes/>
         <macroponent display_value="Vehicle History Tab">402045f487e19110ff1ffcc4dabb3536</macroponent>
         <name>New client script 1</name>

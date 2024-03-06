@@ -3,6 +3,7 @@
         <active>true</active>
         <app_config display_value="Fleet Vehicle Management Config">0a43b352d63819100db25335345d81c0</app_config>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings>[ ]</event_mappings>
         <macroponent display_value="Vehicle Tab">8301931387ad5910ff1ffcc4dabb35c0</macroponent>
         <macroponent_config>{

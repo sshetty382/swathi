@@ -3,6 +3,7 @@
         <active>true</active>
         <app_config display_value="Fleet Vehicle Management Config">0a43b352d63819100db25335345d81c0</app_config>
         <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
         <event_mappings>[ {&#13;
   "eventMappingId" : "7c4b7a6d-da76-4cfb-9561-c14388a97faf",&#13;
   "sourceEventApiName" : "sn_uib_base_aw.NAV_ITEM_SELECTED_RELAY_8515f3e853031010ffa5ddeeff7b1297",&#13;

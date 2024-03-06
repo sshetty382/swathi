@@ -4,6 +4,7 @@
         <api_name>x_snc_flt_mgmt.Audience for appFleet Vehicle Management</api_name>
         <description/>
         <name>Audience for appFleet Vehicle Management</name>
+        <role_names/>
         <roles name="x_snc_flt_mgmt.user">2cc4a3169738d150c6fc7e0e6253af38</roles>
         <sys_class_name>sys_ux_applicability</sys_class_name>
         <sys_created_by>admin</sys_created_by>
